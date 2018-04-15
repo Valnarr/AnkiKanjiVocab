@@ -109,39 +109,95 @@
 30401,それに,それに is used to add an item or to make an additional statement,in addition; moreover; furthermore; what's more; on top of that; and,日本語を勉強し始めた時、ひらがなとカタカナ、それに漢字を覚えなくてはいけなかったので、とても大変だった。でも、やめなくてよかった。,and kanji,日本語を勉強し始めた時、ひらがなとカタカナ、{}を覚えなくてはいけなかったので、とても大変だった。でも、やめなくてよかった。,それに漢字,"When I started studying Japanese, I had to learn Hiragana and Katakana, and Kanji, so it was very difficult. But it was good not to stop."
 30402,それに,それに is used to add an item or to make an additional statement,in addition; moreover; furthermore; what's more; on top of that; and,そのアパートは明るくて広い。それに、学校に近い。,also close to school,そのアパートは明るくて広い。{}。,それに、学校に近い,The apartment is bright and spacious. Also close to school.
 30403,それに,それに is used to add an item or to make an additional statement,in addition; moreover; furthermore; what's more; on top of that; and,そのアルバイトはあまり大変じゃないし、それに給料もいい。,and the salary is good too,そのアルバイトはあまり大変じゃないし、{}。,それに給料もいい,"That part-time job is not much trouble, and the salary is good too."
-30501,～(の)ばら,"なら is used when the speaker supposes that something is the case or is true and makes a statement, suggestion, etc. based on that supposition. の occurs before なら when the supposition is based on what the speaker has heard from someone or learned from the situation. N なら means ""If it is N; N would/could ~."" In ""S1 なら S2,"" the action/event in S1 does not have to take place before that in S2. Note that the use of たら, as in S1 たら S2, must be distinguished from that of なら. ",N なら =would; could ~ S(の)なら＝if(it's the case that) ~; if (it's true that),,,,,
-30502,～(の)ばら,"なら is used when the speaker supposes that something is the case or is true and makes a statement, suggestion, etc. based on that supposition. の occurs before なら when the supposition is based on what the speaker has heard from someone or learned from the situation. N なら means ""If it is N; N would/could ~."" In ""S1 なら S2,"" the action/event in S1 does not have to take place before that in S2. Note that the use of たら, as in S1 たら S2, must be distinguished from that of なら. ",N なら =would; could ~ S(の)なら＝if(it's the case that) ~; if (it's true that),,,,,
-30503,～(の)ばら,"なら is used when the speaker supposes that something is the case or is true and makes a statement, suggestion, etc. based on that supposition. の occurs before なら when the supposition is based on what the speaker has heard from someone or learned from the situation. N なら means ""If it is N; N would/could ~."" In ""S1 なら S2,"" the action/event in S1 does not have to take place before that in S2. Note that the use of たら, as in S1 たら S2, must be distinguished from that of なら. ",N なら =would; could ~ S(の)なら＝if(it's the case that) ~; if (it's true that),,,,,
-30601,,,,,,,,
-30602,,,,,,,,
-30603,,,,,,,,
-30701,,,,,,,,
-30702,,,,,,,,
-30703,,,,,,,,
-30801,,,,,,,,
-30802,,,,,,,,
-30803,,,,,,,,
-30901,,,,,,,,
-30902,,,,,,,,
-30903,,,,,,,,
-31001,,,,,,,,
-31002,,,,,,,,
-31003,,,,,,,,
-31101,,,,,,,,
-31102,,,,,,,,
-31103,,,,,,,,
-31201,,,,,,,,
-31202,,,,,,,,
-31203,,,,,,,,
-31301,,,,,,,,
-31302,,,,,,,,
-31303,,,,,,,,
-31401,,,,,,,,
-31402,,,,,,,,
-31403,,,,,,,,
-31501,,,,,,,,
-31502,,,,,,,,
-31503,,,,,,,,
-31601,,,,,,,,
-31602,,,,,,,,
-31603,,,,,,,,
+30501,～(の)なら,"なら is used when the speaker supposes that something is the case or is true and makes a statement, suggestion, etc. based on that supposition. の occurs before なら when the supposition is based on what the speaker has heard from someone or learned from the situation. N なら means ""If it is N; N would/could ~."" In ""S1 なら S2,"" the action/event in S1 does not have to take place before that in S2. Note that the use of たら, as in S1 たら S2, must be distinguished from that of なら. ",N なら =would; could ~ S(の)なら＝if(it's the case that) ~; if (it's true that),車を運転するのなら、お酒を飲んではいけません。,if its true that,車を運転する{}、お酒を読んではいけません。,のなら,"If you are driving a car, don't drink alcohol."
+30502,～(の)なら,"なら is used when the speaker supposes that something is the case or is true and makes a statement, suggestion, etc. based on that supposition. の occurs before なら when the supposition is based on what the speaker has heard from someone or learned from the situation. N なら means ""If it is N; N would/could ~."" In ""S1 なら S2,"" the action/event in S1 does not have to take place before that in S2. Note that the use of たら, as in S1 たら S2, must be distinguished from that of なら. ",N なら =would; could ~ S(の)なら＝if(it's the case that) ~; if (it's true that),寒いのなら、セーターを着たらどうですか。,if its true that,寒い{}、セーターを着たらどうですか。,のなら,"If it's cold, why don't you put on your sweater?"
+30503,～(の)なら,"なら is used when the speaker supposes that something is the case or is true and makes a statement, suggestion, etc. based on that supposition. の occurs before なら when the supposition is based on what the speaker has heard from someone or learned from the situation. N なら means ""If it is N; N would/could ~."" In ""S1 なら S2,"" the action/event in S1 does not have to take place before that in S2. Note that the use of たら, as in S1 たら S2, must be distinguished from that of なら. ",N なら =would; could ~ S(の)なら＝if(it's the case that) ~; if (it's true that),彼女が好きなら、付き合ってくれるように頼んでみたらどうですか。,if its true that,彼女が好き{}、付き合ってくれるように頼んでみたらどうですか。,なら,"If you like her, If you like her, why don't you ask her to go out with you?"
+30601,～として,"として, is used to indicate the role, capacity or occupation of someone or the function or characterisitics of something",as; in the capacity of,姫路城は日本で最も美しお城の一つとして知られています。,One of the most beautiful castles,姫路城は日本で{}知られています。,最も美しお城の一つとして,Himeji Castle is known as one of the most beautiful castles in Japan.
+30602,～として,"として, is used to indicate the role, capacity or occupation of someone or the function or characterisitics of something",as; in the capacity of,この携帯電話は、電話をするだけでなく、カメラとしても使える。,Can be also be used as a camera,この携帯電話は、電話をするだけでなく、{},カメラとしても使える,"This phone can not only be used to make calls, but also as a camera."
+30603,～として,"として, is used to indicate the role, capacity or occupation of someone or the function or characterisitics of something",as; in the capacity of,私の友達はフランスでファッションモデルとして働いています,as a fashion model,私も友達はフランスで{}働いています。,ファッションモデルとして,My friend works as a fashion model in France.
+30701,Verb-non-past ことになっている,"V-plain.non-past ことになっている means that something has been decided and the result of that decision is still in effect. It is often used to introduce rules and customs, as well as one's schedule.",Be supposed to ~; It is a rule that ~; It's been decided that ~;,私のアパートでは、ペットを飼ってはいけないことになっています。,It's a rule that/supposed to be,私のアパートでは、ペットを飼ってはいけない{}。,ことになっています,It's a rule that you're not allowed to have pets in my apartment.
+30702,Verb-non-past ことになっている,"V-plain.non-past ことになっている means that something has been decided and the result of that decision is still in effect. It is often used to introduce rules and customs, as well as one's schedule.",Be supposed to ~; It is a rule that ~; It's been decided that ~;,授業を休む時は先生に連絡しなくてはいけないことになっているが、忘れてしまった。,It's a rule that/supposed to be,授業を休む時は先生に連絡しなくてはいけない{}が、忘れてしまった。,ことになっている,"I have to get in touch with the teacher when abset from class, but I forgot."
+30703,Verb-non-past ことになっている,"V-plain.non-past ことになっている means that something has been decided and the result of that decision is still in effect. It is often used to introduce rules and customs, as well as one's schedule.",Be supposed to ~; It is a rule that ~; It's been decided that ~;,私の家では食事の後、自分で使ったお皿を洗うことになっている。,It's a rule that/supposed to be,私の家では食事の後、自分で使ったお皿を洗う{}。,ことになっている,"At my house, its a rule that after a meal you are supposed to was the dishes you used."
+30801,～をしている;～をしたNoun,"This pattern is used to describe a feature of someone or soemthing, focusing on a certain part or attribute of the thing. N` + は Adj + N2 をしている is synonymous with N1 は N2 が Adj.",have,ゾウは長い鼻をしています。それにそれに、耳も大きいです,has a long nose,ゾウは{}。それにそれに、耳も大きいです,長い鼻をしています,"Elephants have long noses, they also have big ears."
+30802,～をしている;～をしたNoun,"This pattern is used to describe a feature of someone or soemthing, focusing on a certain part or attribute of the thing. N` + は Adj + N2 をしている is synonymous with N1 は N2 が Adj.",have,このオペラ歌手は、本当にきれいな声をしていますね。,has a beautiful voice,このオペラ歌手は、本当に{}ね。,きれいな声をしています,This opera singer really has a beautful voice.
+30803,～をしている;～をしたNoun,"This pattern is used to describe a feature of someone or soemthing, focusing on a certain part or attribute of the thing. N` + は Adj + N2 をしている is synonymous with N1 は N2 が Adj.",have,ヘビのような形をした、泳ぐことが出来るロボットがあるそうだ。,has the shape of a snake,{}、泳ぐことが出来るロボットがあるそうだ。,ヘビのような形をした,There is a robot that can swim which has the shape of snake.
+30901,~てくる;！～ていく,"V-te くる and V-teいく indicate the temportal or spactial direction of an action from the speaker's viewpoint. V-te くる is used when an action appears to be directed toward the speaker, and V-teいく is used when an action appears to be directed toward the speaker, and  V-teいく is used when it appears to be directed away from the speaker. V-te くる often indicates that an action or process began in the past and is continuing in the present, or that something has begun to take place. V-teいく, on the other hand, often expresses an action or state that will continue from the present into the future. In other uses,くる and いく following the V-te maintain their original meanings, ie, ""to come"" and ""to go"".",V-te くる = Have V-ed; begin to; become; grow; V-teいく=go on V-ing; continue; become; grow,最近、ちょっと温かくなってきました。,Became warm,最近、ちょっと{}。,温かくなってきました,"Recently, it has become a little warm."
+30902,~てくる;！～ていく,"V-te くる and V-teいく indicate the temportal or spactial direction of an action from the speaker's viewpoint. V-te くる is used when an action appears to be directed toward the speaker, and V-teいく is used when an action appears to be directed toward the speaker, and  V-teいく is used when it appears to be directed away from the speaker. V-te くる often indicates that an action or process began in the past and is continuing in the present, or that something has begun to take place. V-teいく, on the other hand, often expresses an action or state that will continue from the present into the future. In other uses,くる and いく following the V-te maintain their original meanings, ie, ""to come"" and ""to go"".",V-te くる = Have V-ed; begin to; become; grow; V-teいく=go on V-ing; continue; become; grow,この地方は北にあるので、夏は午前４時前に空が明るくなってくる。,The sky will brighten,この地方は北にあるので、夏は午前４時間に{},空が明るくなってくる,"Because this region is in the north, the sky will brighten before 4AM in the summer."
+30903,~てくる;！～ていく,"V-te くる and V-teいく indicate the temportal or spactial direction of an action from the speaker's viewpoint. V-te くる is used when an action appears to be directed toward the speaker, and V-teいく is used when an action appears to be directed toward the speaker, and  V-teいく is used when it appears to be directed away from the speaker. V-te くる often indicates that an action or process began in the past and is continuing in the present, or that something has begun to take place. V-teいく, on the other hand, often expresses an action or state that will continue from the present into the future. In other uses,くる and いく following the V-te maintain their original meanings, ie, ""to come"" and ""to go"".",V-te くる = Have V-ed; begin to; become; grow; V-teいく=go on V-ing; continue; become; grow,練習すれば、もっと上手に話せるようになっていくよ。がんばってね。,Will be able to speak,練習すれば、もっと上手に{}よ。がんばってね。,話せるようになっていく,"If you practice, you will be able to speak better. Do you're best!"
+30904,~てくる;！～ていく,"V-te くる and V-teいく indicate the temportal or spactial direction of an action from the speaker's viewpoint. V-te くる is used when an action appears to be directed toward the speaker, and V-teいく is used when an action appears to be directed toward the speaker, and  V-teいく is used when it appears to be directed away from the speaker. V-te くる often indicates that an action or process began in the past and is continuing in the present, or that something has begun to take place. V-teいく, on the other hand, often expresses an action or state that will continue from the present into the future. In other uses,くる and いく following the V-te maintain their original meanings, ie, ""to come"" and ""to go"".",V-te くる = Have V-ed; begin to; become; grow; V-teいく=go on V-ing; continue; become; grow,ロボットがもっと人々の生活を助けるようになっていくだろう。,Will be able to help,ロボットがもっと人々の生活を{}だろう。,助けるようになっていく,Robots will be able to help more people's lives.
+31001,ことになった,V-non-past ことになった means that a situation has changed due to some external force (eg. a decision made by someone other than the speaker). It indicates either that the speaker ( or the subject of the sentence) did not actively make the decision or that he/she is viewing the decision from the standpoint of an outsider. Note that ことにした indicates the speaker or the subject made a decision to do something.,It was/has been decided that ~; It turns out that ~,にほん日本にあるオフィスで働くことになったので、日本に引っ越すことになりました。,was decided,日本にあるオフィスで働く{}ので、日本に引っ越す{}。,"ことになった, ことになりました","Because It turns out that I moved  that that the officies are in Japan, it was decided that I moved to Japan."
+31002,ことになった,V-non-past ことになった means that a situation has changed due to some external force (eg. a decision made by someone other than the speaker). It indicates either that the speaker ( or the subject of the sentence) did not actively make the decision or that he/she is viewing the decision from the standpoint of an outsider. Note that ことにした indicates the speaker or the subject made a decision to do something.,It was/has been decided that ~; It turns out that ~,環境をよくするため、来月からリサイクルキャンパーンをすることになった。,was decided to do,環境をよくするため、来月からリサイクルキャンパーンを{}。,することになった,"For the sake of the enviornment, its been decided that next month there will be a recycling campaign"
+31003,ことになった,V-non-past ことになった means that a situation has changed due to some external force (eg. a decision made by someone other than the speaker). It indicates either that the speaker ( or the subject of the sentence) did not actively make the decision or that he/she is viewing the decision from the standpoint of an outsider. Note that ことにした indicates the speaker or the subject made a decision to do something.,It was/has been decided that ~; It turns out that ~,奨学金がもらえることになったので、大学院に行くつもりです。,It was decided to recieve,奨学金が{}ので、大学院に行くつもりです。,もらえることになった,"Because I was given the scholarship, I intend to go to graduate school."
+31101,～ように{頼む／言う},"ように頼む／言う is used to quote a request or command indirectly. In an affirmative request ように頼む is often used with てくれる, as in 来てくれるように頼む. (cf. negative request: ～ないように頼む)",～～(てくれる)ように頼む = to ask someone to V ～ように言う = to tell someone to V,両親は私に、いつも早く家に帰ってくるように言います。,tell to come,両親は私に、いつも早く家に{}。,帰ってくるように言います,My parents always tell me to come home early.
+31102,～ように{頼む／言う},"ように頼む／言う is used to quote a request or command indirectly. In an affirmative request ように頼む is often used with てくれる, as in 来てくれるように頼む. (cf. negative request: ～ないように頼む)",～～(てくれる)ように頼む = to ask someone to V ～ように言う = to tell someone to V,病気でクラスに行けないので、代わりに友達に宿題を出しに行ってくれるように頼んだ。,asked to go,病気でクラスに行けないので、代わりに友達に宿題を出しに{}。,行ってくれるように頼んだ,"I couldn't go to class because I was sick, so I asked my friend to go and turn in the homework."
+31103,～ように{頼む／言う},"ように頼む／言う is used to quote a request or command indirectly. In an affirmative request ように頼む is often used with てくれる, as in 来てくれるように頼む. (cf. negative request: ～ないように頼む)",～～(てくれる)ように頼む = to ask someone to V ～ように言う = to tell someone to V,ウェイターにデザートメニューを持って来てくれるように頼もうか。,ask to bring (affirmative request),ウェイターにデザートメニューを{}か。,持って来てくれるように頼もう,Should I ask the waiter to bring a desert menu?
+31201,～て｛くれる/くれない/もらえる/もらえない｝？ TEESHIRT,V-te くれる、etc. with rising intonation is used to make requests in casual conversation.,Will you~? Can you ~? Could you~?,始めてケーキを焼いたんだけど、ちょっと食べてみてくれる？,could you eat it?,始めてケーキを焼いたんだけど、ちょっと{}？,食べてみてくれる,"I baked the cake for the first time, would you try eating a bit?"
+31202,～て｛くれる/くれない/もらえる/もらえない｝？ TEESHIRT,V-te くれる、etc. with rising intonation is used to make requests in casual conversation.,Will you~? Can you ~? Could you~?,ちょっと、そこの本、取ってくれない？,Can you take it?,ちょっと、そこの本、{}？,取ってくれない,"Excuse me, can you get that book for me please?"
+31203,～て｛くれる/くれない/もらえる/もらえない｝？ TEESHIRT,V-te くれる、etc. with rising intonation is used to make requests in casual conversation.,Will you~? Can you ~? Could you~?,今勉強中だから、もうちょっと静かにしてもらえる？,Can you give me quiet?,今勉強中だから、もうちょっと{}？,静かにしてもらえる,"Because I'm studying now, can you bit a bit more quiet?"
+31301,Verb-non-past ようにする,"V-plain.non-past ようにする indicates one's conscious effort to do something for some purpose. Here, one makes an effort at every opportunity to do something to the degree that he or she can, but sometimes fails.  Thus, ようにする is often used for hibitual actions. Note that this phrase differes from V ことにする, which indicates one's decision to do something and the action can be either a single or habitual one.",make an effort to do ~; make an effort so that ~; try (one's best) to do ~; try one's best so that ~,先生、今日は授業に遅れてすみませんでした。明日からもっと早く家を出るようにします。,try to leave (出る）,先生、今日は授業に遅れてすみませんでした。明日からもっと早く家を{}。,出るようにします,"Teacher, I am sorry I was late for class today. I will try to leave home earlier starting tomorrow."
+31302,Verb-non-past ようにする,"V-plain.non-past ようにする indicates one's conscious effort to do something for some purpose. Here, one makes an effort at every opportunity to do something to the degree that he or she can, but sometimes fails.  Thus, ようにする is often used for hibitual actions. Note that this phrase differes from V ことにする, which indicates one's decision to do something and the action can be either a single or habitual one.",make an effort to do ~; make an effort so that ~; try (one's best) to do ~; try one's best so that ~,毎日寝る前に、新しい漢字を五つ覚えるようにしています。,try to memorize(ing),毎日寝る前に、新しい漢字を五つ｛｝。,覚えるようにしています,"Before going to bed everyday, I try to remember five new kanji."
+31303,Verb-non-past ようにする,"V-plain.non-past ようにする indicates one's conscious effort to do something for some purpose. Here, one makes an effort at every opportunity to do something to the degree that he or she can, but sometimes fails.  Thus, ようにする is often used for hibitual actions. Note that this phrase differes from V ことにする, which indicates one's decision to do something and the action can be either a single or habitual one.",make an effort to do ~; make an effort so that ~; try (one's best) to do ~; try one's best so that ~,体にいいから、野菜や果物をたくさん食べるようにしている。,try to eat,体にいいから、野菜や果物をたくさん{}。,食べるようにしている,"Because it is good for your body, I try to eat a lot of vegetables and fruits."
+31401,～かな（あ）TEESHIRT,かな（あ）is a sentence-final particle which indiactes that the sentence is a self-addressed question or a question addressed to the speaker's in-group members(s). It is used only in casual langauge.,I wonder ~,春休みはなにをしようかなあ。,"I wonder, what shall I do",春休みはなにを{}。,しようかなあ,What shall I do for the spring break?
+31402,～かな（あ）TEESHIRT,かな（あ）is a sentence-final particle which indiactes that the sentence is a self-addressed question or a question addressed to the speaker's in-group members(s). It is used only in casual langauge.,I wonder ~,このアパート、よさそうだけど、ちょっと高すぎるかな。,I wonder if its a bit too expensive,このアパート、よさそうだけど、{}。,ちょっと高すぎるかな,"This apartment looks good, I wonder if it's a bit too expensive."
+31403,～かな（あ）TEESHIRT,かな（あ）is a sentence-final particle which indiactes that the sentence is a self-addressed question or a question addressed to the speaker's in-group members(s). It is used only in casual langauge.,I wonder ~,北海道のホストファミリーのお母さんは元気かなあ。今晩、電話してみよう。,I wonder if healthy (well),北海道のホストファミリーのお母さんは{}。今晩、電話してみよう。,元気かなあ,I wonder if my Hokkaido-host-family mother is doing ok. I'll call her tonight.
+31501,なるべく,"なるべく with or without an adverb modifies the following verb phrase and adds the meaning ""as (much) as possible."" When there is no specific adverb after なるべく, it is usually interpreted as ""as much as ~"" or ""as often as ~.""",as much/often as possible; as ~ as possible,日本語のクラスの外でも、なるべく日本語で話した方がいいですよ,talk in japanese as much as possible,日本語のクラスの外でも、｛｝がいいですよ,なるべく日本語で話した方,"Outside of Japanese classes, you should talk in Japanese as much as possible"
+31502,なるべく,"なるべく with or without an adverb modifies the following verb phrase and adds the meaning ""as (much) as possible."" When there is no specific adverb after なるべく, it is usually interpreted as ""as much as ~"" or ""as often as ~.""",as much/often as possible; as ~ as possible,作文を書く時は、なるべく漢字を使うようにして下さい。,use kanji as much as possible,作文を書く時は、{}ようにして下さい。,なるべく漢字を使う,"When writing essay, please use kanji as much as possible."
+31503,なるべく,"なるべく with or without an adverb modifies the following verb phrase and adds the meaning ""as (much) as possible."" When there is no specific adverb after なるべく, it is usually interpreted as ""as much as ~"" or ""as often as ~.""",as much/often as possible; as ~ as possible,ダイエットをしているから、甘い物はなるべく食べないようにしています。,not eat as much as possible,ダイエットをしているから、甘い物は{}ようにしています。,なるべく食べない,"Because I am on a diet, I try not to eat sweet things as much as possible."
+31601,～ようとした｛が/けれど/ら｝,"V-vol とした、the past form of V-vol とする (try to do ~), is used in situations where someone had to made an attempt to do something bu failed, where someone was going to do something but didn't or where something happened when someone was going to do something.","V-vol とした｛が/けれど｝＝ tried to ~ but; was going to ~but; V-vol としたら = when ~, was going to ~",ケーキを作ろうとしたけれど、卵がなかったから、作れなかった。,tried to make,ケーキを{}、卵がなかったから、作れなかった。,作ろうとしたけれど,"I tried to make a cake, but I could not make it because there was no egg."
+31602,～ようとした｛が/けれど/ら｝,"V-vol とした、the past form of V-vol とする (try to do ~), is used in situations where someone had to made an attempt to do something bu failed, where someone was going to do something but didn't or where something happened when someone was going to do something.","V-vol とした｛が/けれど｝＝ tried to ~ but; was going to ~but; V-vol としたら = when ~, was going to ~",宿題をしようとしたが、友達が来たから、するのをやめた。,tried to do,宿題を{}、友達が来たから、するのをやめた。,しようとしたが,"I attempted to do my homework, but my friend came and I decided not to do it."
+31603,～ようとした｛が/けれど/ら｝,"V-vol とした、the past form of V-vol とする (try to do ~), is used in situations where someone had to made an attempt to do something bu failed, where someone was going to do something but didn't or where something happened when someone was going to do something.","V-vol とした｛が/けれど｝＝ tried to ~ but; was going to ~but; V-vol としたら = when ~, was going to ~",電車に乗ろうとしたら、目の前でドアが閉まってしまった。,tried to board,電車に{}、目の前でドアが閉まってしまった。,乗ろうとしたら,"I tried to catch the train, the door closed in front of me."
+,,,,,,,,
+40101,毎～のように,"The literal meaning of this phrase is ""like every ~,"" but it is used to mean ""almost every ~""",almost every ~,映画が好きなので、毎週のように映画を見に行っています。,almsot every week,映画が好きなので、{}映画を見に行っています。,毎週のように,"I like movies, so I go to the movies almost every week."
+40102,毎～のように,"The literal meaning of this phrase is ""like every ~,"" but it is used to mean ""almost every ~""",almost every ~,子供の頃は、毎年のように夏休みに海に行っていた。,almost every year,子供の頃は、{}夏休みに海に行っていた。,毎年のように,"When I was a child, I went to the sea during summer vacation almost every year."
+40103,毎～のように,"The literal meaning of this phrase is ""like every ~,"" but it is used to mean ""almost every ~""",almost every ~,このサイトにアクセスすると、毎回のようにフリーズしてしまう。,almost every time,このサイトにアクセスすると、{}フリーズしてしまう。,毎回のように,"When you visit this site, it freezes almost every time."
+40201,,,,,,,,
+40202,,,,,,,,
+40203,,,,,,,,
+40301,,,,,,,,
+40302,,,,,,,,
+40303,,,,,,,,
+40401,,,,,,,,
+40402,,,,,,,,
+40403,,,,,,,,
+40501,,,,,,,,
+40502,,,,,,,,
+40503,,,,,,,,
+40601,,,,,,,,
+40602,,,,,,,,
+40603,,,,,,,,
+40701,,,,,,,,
+40702,,,,,,,,
+40703,,,,,,,,
+40801,,,,,,,,
+40802,,,,,,,,
+40803,,,,,,,,
+40901,,,,,,,,
+40902,,,,,,,,
+40903,,,,,,,,
+41001,,,,,,,,
+41002,,,,,,,,
+41003,,,,,,,,
+41101,,,,,,,,
+41102,,,,,,,,
+41103,,,,,,,,
+41201,,,,,,,,
+41202,,,,,,,,
+41203,,,,,,,,
+41301,,,,,,,,
+41302,,,,,,,,
+41303,,,,,,,,
+41401,,,,,,,,
+41402,,,,,,,,
+41403,,,,,,,,
+41501,,,,,,,,
+41502,,,,,,,,
+41503,,,,,,,,
+41601,,,,,,,,
+41602,,,,,,,,
+41603,,,,,,,,
+41701,,,,,,,,
+41702,,,,,,,,
+41703,,,,,,,,
+41801,,,,,,,,
+41802,,,,,,,,
+41803,,,,,,,,

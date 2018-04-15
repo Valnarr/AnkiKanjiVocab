@@ -1,92 +1,203 @@
-Vocab,English,Reading
-島,Island,しま
-全体（の）,Whole/Entirety,ぜんたい（の）
-～分の～,Percent,～ぶんの～
-平和,Peace/Harmony,へいわ
-差,Difference/Variation,さ
-人々,Each Person/People,ひとびと
-楽しむ,to enjoy oneself,たのしむ
-名所,Famous Place,めいしょ
-最も,Most/Estremely,もっとも
-美しい,Beautiful,うつくしい
-残る,to remain/ to be left,のこる
-建物,Building,たてもの
-形,Form/Shape/Figure,かたち
-目的,Purpose/Goal/Aim,もくてき
-特に,Particularly/Especially,とくに
-市,City,し
-見学,Inspection/ Study by observation,けんがく
-昔話,Old Tale/Folk Tale,むかしばなし
-地方,District/Region/Area,ちほう
-名物,Famous Product/ Specialty,めいぶつ
-行事,Event/Function,ぎょうじ
-年,Year,とし
-特別（な）,Special,とくべつ（な）
-行う,to perform/ to do/ to conduct oneself,おこなう
-～達,Pluralizing Suffix (esp for people and animals),~たち
-気持ち,Feeling/Sensation/Mood,きもち
-始め,Beginning/Start/Outset,はじめ
-地理,Geography,ちり
-東京,Tokyo,とうきょう
-都市,Town/City/Urban,とし
-北海道,Hokkaido,ほっかいどう
-本州,Honshu (largest of the four main islands of Japan),ほんしゅう
-四国,Shikoku (smallest of the four main islands of Japan),しこく
-九州,Kyushu (southernmost of the four main islands of Japan),きゅうしゅう
-都,Metropolitan/Municipal,と
-道（おんよみ）,Road/Way/Buddhist Teachings,どう
-府,Metropolitan prefacture of Osaka and Kyoto,ふ
-県,Prefacture of Japan,けん
-京都,Kyoto,きょうと
-階,Story/Storey/Floor,かい
-専門,Specialty/Specialty/Subject of Study,せんもん
-関東,Kanto/Region Conssting of Tokyo and surrounding prefactures,かんとう
-関西,"Kansai/Region consisiting of Osaka, Kobe, Kyoto and surrounding prefactures",かんさい
-自然,Nature,しぜん
-,,
-実は,as a matter of fact; by the way,じつは
-相手,companion; partner; company​,あいて
-変える,to change; to alter; to transform,かえる
-難しい,difficult; hard; troublesome,むずかしい
-部分,portion; section; part​,ぶぶん
-男性,"masculine gender​, man, male",だんせい
-女性,"feminine gender​, woman, female",じょせい
-比べる,to compare; to make a comparison​,くらべる
-代わりに,instead of; for; as; in exchange for;,かわりに
-感じ,feeling; sense; impression​,かんじ
-男女,men and women; man and woman; both sexes,だんじょ
-文字,letter (of alphabet); character​,もじ
-最後,end; conclusion​,さいご
-忙しい,busy; occupied; hectic​,いそがしい
-気分,feeling; mood​,きぶん
-短い,short​,みじかい
-今晩,tonight; this evening​,こんばん
-理由,reason; pretext; motive​,りゆう
-説明,explanation; exposition​,せつめい
-必要（な）,necessary; needed; essential; indispensable​,ひつよう（な）
-～場合,case; situation​,～ばあい
-会う,to meet; to encounter; to see​,あう
-お世話になる,to receive favor (favour); to be much obliged to someone; to be indebted,おせわになる
-昨日,yesterday​,きのう
-明日,tomorrow,あした
-皆さん,all; everyone; everybody​,みなさん
-敬語,Honorific speech in Japanese,けいご
-複雑（な）,complex; complicated; mixed (feelings),ふくざつ（な）
-課,lesson​,か
-言語,language​,げんご
-例えば,for example; for instance; e.g.​,たとえば
-出来る,to be able (in a position) to do; to be up to the task​,できる
-落とす,to drop; to lose; to let fall;,おとす
-場面,scene; setting (e.g. of novel)​,ばめん
-僕,I; me​ (Male term or language),ぼく
-例,instance; example; case; illustration; usage​,れい
-連絡,to contact; to get in touch​,れんらく
-困る,to be troubled; to be worried; to be bothered; to be embarrassed; to be stumped​,こまる
-お願い,"request; wish​, please",おねがい
-簡単（な）,simple; easy; uncomplicated​,かんたん（な）
-論文,thesis; essay; treatise; paper; article​,ろんぶん
-誰,who​,だれ
-課長,section manager; section chief​,かちょう
-会議,meeting; conference; session,かいぎ
--過ぎ,"past; after​, too much",-すぎ
-無理（な）,"unreasonable; unnatural; unjustifiable​, forced, excessive",むり（な）
+島,Island,しま,,,,,,,
+全体（の）,Whole/Entirety,ぜんたい（の）,,,,,,,
+～分の～,Percent,～ぶんの～,,,,,,,
+平和,Peace/Harmony,へいわ,,,,,,,
+差,Difference/Variation,さ,,,,,,,
+人々,Each Person/People,ひとびと,,,,,,,
+楽しむ,to enjoy oneself,たのしむ,,,,,,,
+名所,Famous Place,めいしょ,,,,,,,
+最も,Most/Estremely,もっとも,,,,,,,
+美しい,Beautiful,うつくしい,,,,,,,
+残る,to remain/ to be left,のこる,,,,,,,
+建物,Building,たてもの,,,,,,,
+形,Form/Shape/Figure,かたち,,,,,,,
+目的,Purpose/Goal/Aim,もくてき,,,,,,,
+特に,Particularly/Especially,とくに,,,,,,,
+市,City,し,,,,,,,
+見学,Inspection/ Study by observation,けんがく,,,,,,,
+昔話,Old Tale/Folk Tale,むかしばなし,,,,,,,
+地方,District/Region/Area,ちほう,,,,,,,
+名物,Famous Product/ Specialty,めいぶつ,,,,,,,
+行事,Event/Function,ぎょうじ,,,,,,,
+年,Year,とし,,,,,,,
+特別（な）,Special,とくべつ（な）,,,,,,,
+行う,to perform/ to do/ to conduct oneself,おこなう,,,,,,,
+～達,Pluralizing Suffix (esp for people and animals),~たち,,,,,,,
+気持ち,Feeling/Sensation/Mood,きもち,,,,,,,
+始め,Beginning/Start/Outset,はじめ,,,,,,,
+地理,Geography,ちり,,,,,,,
+東京,Tokyo,とうきょう,,,,,,,
+都市,Town/City/Urban,とし,,,,,,,
+北海道,Hokkaido,ほっかいどう,,,,,,,
+本州,Honshu (largest of the four main islands of Japan),ほんしゅう,,,,,,,
+四国,Shikoku (smallest of the four main islands of Japan),しこく,,,,,,,
+九州,Kyushu (southernmost of the four main islands of Japan),きゅうしゅう,,,,,,,
+都,Metropolitan/Municipal,と,,,,,,,
+道（おんよみ）,Road/Way/Buddhist Teachings,どう,,,,,,,
+府,Metropolitan prefacture of Osaka and Kyoto,ふ,,,,,,,
+県,Prefacture of Japan,けん,,,,,,,
+京都,Kyoto,きょうと,,,,,,,
+階,Story/Storey/Floor,かい,,,,,,,
+専門,Specialty/Specialty/Subject of Study,せんもん,,,,,,,
+関東,Kanto/Region Conssting of Tokyo and surrounding prefactures,かんとう,,,,,,,
+関西,"Kansai/Region consisiting of Osaka, Kobe, Kyoto and surrounding prefactures",かんさい,,,,,,,
+自然,Nature,しぜん,,,,,,,
+,,,,,,,,,
+実は,as a matter of fact; by the way,じつは,,,,,,,
+相手,companion; partner; company​,あいて,,,,,,,
+変える,to change; to alter; to transform,かえる,,,,,,,
+難しい,difficult; hard; troublesome,むずかしい,,,,,,,
+部分,portion; section; part​,ぶぶん,,,,,,,
+男性,"masculine gender​, man, male",だんせい,,,,,,,
+女性,"feminine gender​, woman, female",じょせい,,,,,,,
+比べる,to compare; to make a comparison​,くらべる,,,,,,,
+代わりに,instead of; for; as; in exchange for;,かわりに,,,,,,,
+感じ,feeling; sense; impression​,かんじ,,,,,,,
+男女,men and women; man and woman; both sexes,だんじょ,,,,,,,
+文字,letter (of alphabet); character​,もじ,,,,,,,
+最後,end; conclusion​,さいご,,,,,,,
+忙しい,busy; occupied; hectic​,いそがしい,,,,,,,
+気分,feeling; mood​,きぶん,,,,,,,
+短い,short​,みじかい,,,,,,,
+今晩,tonight; this evening​,こんばん,,,,,,,
+理由,reason; pretext; motive​,りゆう,,,,,,,
+説明,explanation; exposition​,せつめい,,,,,,,
+必要（な）,necessary; needed; essential; indispensable​,ひつよう（な）,,,,,,,
+～場合,case; situation​,～ばあい,,,,,,,
+会う,to meet; to encounter; to see​,あう,,,,,,,
+お世話になる,to receive favor (favour); to be much obliged to someone; to be indebted,おせわになる,,,,,,,
+昨日,yesterday​,きのう,,,,,,,
+明日,tomorrow,あした,,,,,,,
+皆さん,all; everyone; everybody​,みなさん,,,,,,,
+敬語,Honorific speech in Japanese,けいご,,,,,,,
+複雑（な）,complex; complicated; mixed (feelings),ふくざつ（な）,,,,,,,
+課,lesson​,か,,,,,,,
+言語,language​,げんご,,,,,,,
+例えば,for example; for instance; e.g.​,たとえば,,,,,,,
+出来る,to be able (in a position) to do; to be up to the task​,できる,,,,,,,
+落とす,to drop; to lose; to let fall;,おとす,,,,,,,
+場面,scene; setting (e.g. of novel)​,ばめん,,,,,,,
+僕,I; me​ (Male term or language),ぼく,,,,,,,
+例,instance; example; case; illustration; usage​,れい,,,,,,,
+連絡,to contact; to get in touch​,れんらく,,,,,,,
+困る,to be troubled; to be worried; to be bothered; to be embarrassed; to be stumped​,こまる,,,,,,,
+お願い,"request; wish​, please",おねがい,,,,,,,
+簡単（な）,simple; easy; uncomplicated​,かんたん（な）,,,,,,,
+論文,thesis; essay; treatise; paper; article​,ろんぶん,,,,,,,
+誰,who​,だれ,,,,,,,
+課長,section manager; section chief​,かちょう,,,,,,,
+会議,meeting; conference; session,かいぎ,,,,,,,
+-過ぎ,"past; after​, too much",-すぎ,,,,,,,
+無理（な）,"unreasonable; unnatural; unjustifiable​, forced, excessive",むり（な）,,,,,,,
+,,,,,,,,,
+発達スル,development; growth​,はったつスル,,,,,,,
+注文スル,order; request​,ちゅうもんスル,,,,,,,
+社会,society; public; community; the world​,しゃかい,,,,,,,
+運ぶ,to carry; to transport; to move; to convey​,はこぶ,,,,,,,
+工場,factory; plant; mill; workshop​,こうじょう,,,,,,,
+人間,human being; person; man; mankind; humankind​,にんげん,,,,,,,
+～他,"other (place, thing, person); the rest​",～ほか,,,,,,,
+首,neck​,くび,,,,,,,
+動かす/動く,to move; to shift; to stir; to budge; to change position​,うごかす/うごく,,,,,,,
+声,voice​,こえ,,,,,,,
+集まる,to gather; to collect; to assemble​,あつまる,,,,,,,
+動物,animal​,どうぶつ,,,,,,,
+大事（な）,important; serious; crucial​,だいじ（な）,,,,,,,
+子供,child; children​,こども,,,,,,,
+泣く,to cry; to weep; to sob; to howl​,なく,,,,,,,
+両親,parents; both parents​,りょうしん,,,,,,,
+入学スル,entry to school or university; matriculation; enrolment,にゅうがくスル,,,,,,,
+始めて,for the first time​,はじめて,,,,,,,
+本当（の）,truth; reality; actuality; fact​,ほんとう（の）,,,,,,,
+最初,beginning; outset; first; onset​,さいしょ,,,,,,,
+理解スル,understanding; comprehension; appreciation; sympathy​,りかいスル,,,,,,,
+連れて行く,to take someone (to some place),つれていく,,,,,,,
+残念（な）,deplorable; bad luck; regret; disappointment​,なんねん（な）,,,,,,,
+生まれる,to be born​,うまれる,,,,,,,
+学習スル,study; learning; tutorial​,がくしゅうスル,,,,,,,
+笑う,to laugh​,わらう,,,,,,,
+食事,meal​,しょくじ,,,,,,,
+最高（の）,most; highest; maximum; uppermost; supreme​,さいこう（の）,,,,,,,
+守る,to protect; to guard; to defend​,まもる,,,,,,,
+問題,question (e.g. on a test); problem​,もんだい,,,,,,,
+文法,grammar; syntax​,ぶんぽう,,,,,,,スル
+間違う,to make a mistake; to be incorrect; to be mistaken​,まちがう,,,,,,,
+直す,to cure; to heal​,なおす,,,,,,,
+苦手（な）,poor (at); weak (in); not very good (at)​,にがて（な）,,,,,,,
+助かる/助ける,to be saved; to be rescued; to survive​,たすかる/たすける,,,,,,,
+発表スル,announcement; publication; presenting; statement;,はっぴょうスル,,,,,,,
+この間,the other day; lately; recently,このあいだ,,,,,,,
+呼ぶ,to call out (to); to call; to invoke​,よぶ,,,,,,,
+記事,article; news story; report; account​,きじ,,,,,,,
+手伝う,to help; to assist; to aid​,てつだう,,,,,,,
+単語,word; vocabulary; (usually) single-character word​,たんご,,,,,,,
+技術,technology; engineering​,ぎじゅつ,,,,,,,
+会場,assembly hall; meeting place;,かいじょう,,,,,,,
+手術,surgery; operation; procedure​,しゅじゅつ,,,,,,,
+実際（に）,virtually; practically; in practice; actually​,じっさい（に）,,,,,,,
+一緒に,together (with); at the same time; in a lump​,いっしょうに,,,,,,,
+面白い,interesting; fascinating; intriguing; enthralling​,おもしろい,,,,,,,
+ー型,model; type,ーがた,,,,,,,
+毛,hair​,け,,,,,,,
+周り,surroundings; neighbourhood; neighborhood；circumference girth,まわり,,,,,,,
+欲しい/欲しがる,wanted; wished for; in need of; desired,ほしい/ほしがる,,,,,,,
+合格スル,success; passing (e.g. exam); eligibility​,ごうかくスル,,,,,,,
+遊ぶ,to play; to enjoy oneself; to have a good time​,あそぶ,,,,,,,
+寝る,to go to bed; to lie in bed​,ねる,,,,,,,
+将来,future (usually near); prospects​,しょうらい,,,,,,,
+案内スル,guidance; leading (the way); showing around​,あんないスル,,,,,,,
+頼む,to request; to beg; to ask​,たのむ,,,,,,,
+ー君,Mr (junior); master; boy​,ーくん,,,,,,,
+発音スル,pronunciation​,はつおんスル,,,,,,,
+全然,not at all (with neg. verb)​,ぜんぜん,,,,,,,
+辞書,dictionary; lexicon​,じしょ,,,,,,,
+,,,,,,,,,
+学ぶ,to study (in depth); to learn; to take lessons in​,まなぶ,,,,,,,
+現代,nowadays; modern era; modern times; present-day​,げんだい,,,,,,,
+番組,program (e.g. TV); programme​,ばんぐみ,,,,,,,
+代表的（な）,representative; exemplary; model​,だいひょうてき（な）,,,,,,,
+国内,internal; domestic​,こくない,,,,,,,
+試合,match; game; bout; contest​,しあい,,,,,,,
+選手,player (sports); athlete; team member; representative,せんしゅ,,,,,,,
+勝つ,to win; to gain victory​,かつ,,,,,,,
+成長,growth; grow to adulthood​,せいちょう,,,,,,,
+例えば,for example; for instance; e.g.​,たとえば,,,,,,,
+笑顔,smiling face; smile​,えがお,,,,,,,
+大声,loud voice​,おおごえ,,,,,,,
+負ける,to lose; to be defeated​,まける,,,,,,,
+表現,expression; presentation​,ひょうげん,,,,,,,
+絶対,absolutely; unconditionally,ぜったい,,,,,,,
+例,instance; example; case; illustration; usage​,れい,,,,,,,
+～に向かって,to go towards; to head towards​,～にむかって,,,,,,,
+Verb会う,to meet; to encounter; to see​？？？？？？？？？？？？？,～あう,,,,,,,
+表す,to reveal; to show; to display,あらわす,,,,,,,
+正しい,right; correct​,ただしい,,,,,,,
+育つ/育てる,to be raised (e.g. child); to be brought up; to grow (up),そだつ/そだてる,,,,,,,
+通う,to go to and from (a place); to go back and forth between,かよう,,,,,,,
+能力,ability; faculty​,のうりょく,,,,,,,
+彼,he; him​,かれ,,,,,,,
+後ろ,back; behind; rear​,うしろ,,,,,,,
+与える,to give (esp. to someone of lower status); to bestow; to grant;,あたえる,,,,,,,
+～部,"section, bureau, dept, class,",～ぶ,,,,,,,
+関係,relation; relationship; connection​,かんけい,,,,,,,
+部員,staff; member,ぶいん,,,,,,,
+半年,half year​,はんとし,,,,,,,
+速い,fast; quick; hasty; brisk​,はやい,,,,,,,
+お年寄り,old person; elderly person; senior citizen​,おとしより,,,,,,,
+種類,variety; kind; type; category​,しゅるい,,,,,,,
+健康,health​,けんこう,,,,,,,
+お互いに,mutually; with each other; reciprocally; together; both​,おたがいに,,,,,,,
+尊敬,respect; esteem; reverence; honour; honor​,そんけい,,,,,,,
+含む,to contain; to comprise; to have; to hold; to include; to embrace​,ふくむ,,,,,,,
+精神,mind; soul; heart; spirit; intention​,せいしん,,,,,,,
+折る,to break; to fracture; to break off; to snap off; to pick,おる,,,,,,,
+打つ,to hit; to strike; to knock; to beat; to punch,うつ,,,,,,,
+投げる,to throw; to cast away​,なげる,,,,,,,
+驚く,to be surprised; to be astonished​,おどろく,,,,,,,
+席,seat​,せき,,,,,,,
+迷う,to lose one's way​,まよう,,,,,,,
+一般的（な）,general; popular; common; typical​,いっぱんてき（な）,,,,,,,
+相談,consultation; discussion; discussing,そうだん,,,,,,,
+先輩,senior (at work or school); superior; elder; older graduate,せんぱい,,,,,,,
+後輩,"junior (at work, school, etc.); younger people; younger student​",こうはい,,,,,,,
+道具,tool; implement; instrument; utensil; apparatus; device​,どうぐ,,,,,,,
